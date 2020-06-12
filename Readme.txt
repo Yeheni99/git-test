@@ -1,2 +1,2 @@
 # git-test
-welcome to github Desktop
+welcome to Github Desktop
